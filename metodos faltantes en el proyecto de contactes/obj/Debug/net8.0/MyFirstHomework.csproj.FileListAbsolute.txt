@@ -1,0 +1,14 @@
+C:\Programation\MyChambas\MyFirstHomework\bin\Debug\net8.0\MyFirstHomework.exe
+C:\Programation\MyChambas\MyFirstHomework\bin\Debug\net8.0\MyFirstHomework.deps.json
+C:\Programation\MyChambas\MyFirstHomework\bin\Debug\net8.0\MyFirstHomework.runtimeconfig.json
+C:\Programation\MyChambas\MyFirstHomework\bin\Debug\net8.0\MyFirstHomework.dll
+C:\Programation\MyChambas\MyFirstHomework\bin\Debug\net8.0\MyFirstHomework.pdb
+C:\Programation\MyChambas\MyFirstHomework\obj\Debug\net8.0\MyFirstHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programation\MyChambas\MyFirstHomework\obj\Debug\net8.0\MyFirstHomework.AssemblyInfoInputs.cache
+C:\Programation\MyChambas\MyFirstHomework\obj\Debug\net8.0\MyFirstHomework.AssemblyInfo.cs
+C:\Programation\MyChambas\MyFirstHomework\obj\Debug\net8.0\MyFirstHomework.csproj.CoreCompileInputs.cache
+C:\Programation\MyChambas\MyFirstHomework\obj\Debug\net8.0\MyFirstHomework.dll
+C:\Programation\MyChambas\MyFirstHomework\obj\Debug\net8.0\refint\MyFirstHomework.dll
+C:\Programation\MyChambas\MyFirstHomework\obj\Debug\net8.0\MyFirstHomework.pdb
+C:\Programation\MyChambas\MyFirstHomework\obj\Debug\net8.0\MyFirstHomework.genruntimeconfig.cache
+C:\Programation\MyChambas\MyFirstHomework\obj\Debug\net8.0\ref\MyFirstHomework.dll
